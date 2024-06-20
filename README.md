@@ -9,7 +9,6 @@ In the rapidly evolving field of artificial intelligence and natural language pr
 #### -> KeyFeatures
 #### -> Approach
 #### -> Methodology
-#### -> Deployment
 #### -> Results and Conclusions
 #### -> How to run ?
 #### -> References
@@ -76,8 +75,7 @@ Methodology
     Flask for Deployment:
         Transitioned to Flask for a scalable and production-ready solution.
         Developed a robust backend API using Flask to handle PDF uploads and process user questions efficiently.
-## Deployment
-![alt text](https://github.com/kkboss1234/Aries-pdf-qa/blob/main/Screenshots/Image1.JPG)
+
 ## Results and Conclusion 🌻
 ### Result 
 The "PDF Question Answering AI" project successfully demonstrates the ability to extract relevant information from PDF documents and answer questions based on the extracted text. The system was tested on a variety of PDF documents and questions to evaluate its performance, accuracy, and robustness. Here, we present a detailed analysis of the results and discuss their significance and the insights gained.

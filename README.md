@@ -28,8 +28,6 @@ To address this problem, I adopted a multi-step approach involving several key s
 
 
 ## Methodology
-Certainly! Here's the methodology for a PDF question answering system written in a raw text format suitable for a README file:
-Methodology
 ### 1. Data Preparation
 
     PDF Text Extraction:
